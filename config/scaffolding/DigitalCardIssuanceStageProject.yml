@@ -27,3 +27,8 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
+- name: OnPremCardIssuanceSFDCServices
+  gitServerName: vikashGithub
+  gitUrl: https://github.com/vikashsharma387
+  gitUsername: vikashsharma387
+  gitBranch: main
