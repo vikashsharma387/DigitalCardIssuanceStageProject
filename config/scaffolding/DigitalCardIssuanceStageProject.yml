@@ -37,3 +37,8 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
+- name: cardIssuance
+  gitServerName: SHIH_GIT
+  gitUrl: https://github.webmethods.io/shih
+  gitUsername: shih
+  gitBranch: main
