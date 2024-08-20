@@ -32,12 +32,12 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
-- name: OnpremWebMethodsCardIssuanceConnections
+- name: OnPremCardIssuanceSFDCServices
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
-- name: OnPremCardIssuanceSFDCServices
+- name: OnpremWebMethodsCardIssuanceConnections
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
