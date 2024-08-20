@@ -14,18 +14,17 @@
     <value name="CardTypeSecurity">1.0</value>
     <value name="WmSalesforceRESTProvider">10.7.0.0.95</value>
     <value name="OnPremCardIssuanceSFDCServices">1.0</value>
-    <value name="OnpremWebMethodsCardIssuanceConnections">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">19</value>
+  <value name="build">20</value>
   <null name="description"/>
   <value name="created_date">20-08-2024 05:33:39 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-08-20T08:37:49.36797457Z</value>
+  <value name="lastUpdated">2024-08-20T08:56:28.221559684Z</value>
   <value name="wmProjectId">fl23fcfb9d7dd3ce451e3fb8</value>
   <value name="creator">Vikash Sharma</value>
 </Values>
