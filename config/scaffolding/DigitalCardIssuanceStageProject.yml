@@ -32,12 +32,12 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
-- name: OnpremWebMethodsCardIssuanceConnections
+- name: WmSalesforceRESTProvider
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
-- name: WmSalesforceRESTProvider
+- name: OnpremWebMethodsCardIssuanceConnections
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
