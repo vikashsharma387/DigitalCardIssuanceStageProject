@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="CardIssuancePublicServices">1.0</value>
+    <value name="customCobrandingService">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">20-08-2024 05:33:39 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-08-20T05:36:46.535736475Z</value>
+  <value name="lastUpdated">2024-08-20T05:37:19.251117331Z</value>
   <value name="wmProjectId">fl23fcfb9d7dd3ce451e3fb8</value>
   <value name="creator">Vikash Sharma</value>
 </Values>
