@@ -15,17 +15,18 @@
     <value name="WmSalesforceRESTProvider">10.7.0.0.95</value>
     <value name="cardIssuance">1.0</value>
     <value name="CardIssuanceSFDCService">1.0</value>
+    <value name="NotificationPackage">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">28</value>
+  <value name="build">29</value>
   <null name="description"/>
   <value name="created_date">20-08-2024 05:33:39 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-08-21T09:01:13.227003812Z</value>
+  <value name="lastUpdated">2024-08-21T11:24:25.34455518Z</value>
   <value name="wmProjectId">fl23fcfb9d7dd3ce451e3fb8</value>
   <value name="creator">Vikash Sharma</value>
 </Values>

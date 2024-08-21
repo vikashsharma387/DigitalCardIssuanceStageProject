@@ -42,3 +42,8 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
+- name: NotificationPackage
+  gitServerName: vikashGithub
+  gitUrl: https://github.com/vikashsharma387
+  gitUsername: vikashsharma387
+  gitBranch: main
