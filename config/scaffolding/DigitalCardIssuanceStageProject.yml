@@ -32,12 +32,12 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
-- name: SalesforceConn
+- name: cloudSFDCService
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
-- name: cloudSFDCService
+- name: SalesforceConn
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
