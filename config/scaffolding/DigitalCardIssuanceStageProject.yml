@@ -37,3 +37,8 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
+- name: cloudSFDCService
+  gitServerName: vikashGithub
+  gitUrl: https://github.com/vikashsharma387
+  gitUsername: vikashsharma387
+  gitBranch: main
