@@ -8,37 +8,48 @@ packages:
   gitUsername: vikashsharma387
   gitBranch: main
 - name: customCobrandingService
+  version: "1.0"
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
 - name: DeliveryPartner
+  version: "1.0"
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
 - name: CardTypeSecurity
+  version: "1.0"
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
 - name: cardIssuance
+  version: "1.0"
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
 - name: NotificationPackage
+  version: "1.0"
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
 - name: cloudSFDCService
+  version: "1.0"
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
 - name: SalesforceConn
+  version: "1.0"
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
+security:
+- name: customCobrandingService
+  allowedServices: []
+  javaServiceSetting: ALL
