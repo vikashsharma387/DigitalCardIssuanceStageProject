@@ -37,8 +37,3 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
-- name: CardIssuanceSFDCService
-  gitServerName: vikashGithub
-  gitUrl: https://github.com/vikashsharma387
-  gitUsername: vikashsharma387
-  gitBranch: main
