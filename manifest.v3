@@ -9,23 +9,23 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="customCobrandingService">1.0</value>
-    <value name="DeliveryPartner">1.0</value>
     <value name="CardTypeSecurity">1.0</value>
     <value name="cardIssuance">1.0</value>
     <value name="NotificationPackage">1.0</value>
     <value name="cloudSFDCService">1.0</value>
     <value name="SalesforceConn">1.0</value>
+    <value name="DeliveryPartner">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">54</value>
+  <value name="build">55</value>
   <null name="description"/>
   <value name="created_date">20-08-2024 05:33:39 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-09-03T10:20:00.388347927Z</value>
+  <value name="lastUpdated">2024-09-03T11:59:28.638073915Z</value>
   <value name="wmProjectId">fl23fcfb9d7dd3ce451e3fb8</value>
   <value name="creator">Vikash Sharma</value>
 </Values>

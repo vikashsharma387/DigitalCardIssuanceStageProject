@@ -13,12 +13,6 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
-- name: DeliveryPartner
-  version: "1.0"
-  gitServerName: vikashGithub
-  gitUrl: https://github.com/vikashsharma387
-  gitUsername: vikashsharma387
-  gitBranch: main
 - name: CardTypeSecurity
   version: "1.0"
   gitServerName: vikashGithub
@@ -44,6 +38,12 @@ packages:
   gitUsername: vikashsharma387
   gitBranch: main
 - name: SalesforceConn
+  version: "1.0"
+  gitServerName: vikashGithub
+  gitUrl: https://github.com/vikashsharma387
+  gitUsername: vikashsharma387
+  gitBranch: main
+- name: DeliveryPartner
   version: "1.0"
   gitServerName: vikashGithub
   gitUrl: https://github.com/vikashsharma387
