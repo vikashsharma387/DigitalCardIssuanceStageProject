@@ -51,6 +51,5 @@ packages:
   gitBranch: main
 security:
 - name: customCobrandingService
-  allowedServices:
-  - customCobrandingService:getBrandingPartnerForCardIssuance
+  allowedServices: []
   javaServiceSetting: RESTRICTED
