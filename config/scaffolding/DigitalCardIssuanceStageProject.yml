@@ -50,7 +50,6 @@ packages:
   gitUsername: vikashsharma387
   gitBranch: main
 security:
-- name: customCobrandingService
-  allowedServices:
-  - customCobrandingService:getBrandingPartnerForCardIssuance
-  javaServiceSetting: RESTRICTED
+- name: DigitalCardIssuanceStageProject
+  allowedServices: []
+  javaServiceSetting: ALL
