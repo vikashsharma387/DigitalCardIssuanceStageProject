@@ -49,6 +49,11 @@ packages:
   gitUrl: https://github.com/vikashsharma387
   gitUsername: vikashsharma387
   gitBranch: main
+- name: AdvestimentPartner
+  gitServerName: vikashGithub
+  gitUrl: https://github.com/vikashsharma387
+  gitUsername: vikashsharma387
+  gitBranch: main
 security:
 - name: DigitalCardIssuanceStageProject
   allowedServices: []

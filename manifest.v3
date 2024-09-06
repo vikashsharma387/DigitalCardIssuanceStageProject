@@ -15,17 +15,18 @@
     <value name="cloudSFDCService">1.0</value>
     <value name="SalesforceConn">1.0</value>
     <value name="DeliveryPartner">1.0</value>
+    <value name="AdvestimentPartner">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">58</value>
+  <value name="build">59</value>
   <null name="description"/>
   <value name="created_date">20-08-2024 05:33:39 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-09-04T13:46:24.263714865Z</value>
+  <value name="lastUpdated">2024-09-06T04:38:36.234211921Z</value>
   <value name="wmProjectId">fl23fcfb9d7dd3ce451e3fb8</value>
   <value name="creator">Vikash Sharma</value>
 </Values>
